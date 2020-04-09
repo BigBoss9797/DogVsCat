@@ -6,6 +6,7 @@ Cat and Dog classification system using Convolutional Neural Network (CNN) and t
 [2] Create new folder and put the dataset into this folder.  
 [3] Run using command line '!python ../Main.py --train'.  
 [4] The complete model will be saved as 'final_model.h5'.  
+[5] Predict using '!python ../Predict.py'.
 
 # Loss and Accuracy
 The loss and accuracy for both training and validation shown in below. 
